@@ -27,6 +27,17 @@
 .App-link {
   color: #61dafb;
 }
+.active{
+  color: rgb(255, 119, 0);
+}
+
+.active:hover{
+  color: rgb(51, 255, 0);
+}
+.bg-dark{
+  background-color: #a83c3c;
+  color: #fff;
+}
 
 @keyframes App-logo-spin {
   from {
